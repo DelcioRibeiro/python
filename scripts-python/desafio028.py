@@ -7,4 +7,4 @@ jogador = int(input('Em que numero eu pensei ? ')) # Jogador tenta advinhar.
 if jogador == computador:
     print('PARABENS! Você conseguiu me venceu!')
 else:
-    print('GANHEI! Eu pensei no numnero {} e não no {}'.format(computador, jogador))
+    print('GANHEI! Eu pensei no numero {} e não no {}'.format(computador, jogador))

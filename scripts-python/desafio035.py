@@ -1,5 +1,5 @@
 print('-='*20)
-print('Analisadorde de Triangulos')
+print('Analisador de Triangulos')
 print('-='*20)
 r1 = float(input('Primeiro segmento: '))
 r2 = float(input('Segundo segmento: '))
